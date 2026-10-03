@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "lit=true,part=0": {"model": "factorylights:block/factory_light/factorylight"},
+    "lit=true,part=1": {"model": "factorylights:block/factory_light/factorylightnorthedge"},
+    "lit=true,part=2": {"model": "factorylights:block/factory_light/factorylightcenterns"},
+    "lit=true,part=3": {"model": "factorylights:block/factory_light/factorylightsouthedge"},
+    "lit=true,part=4": {"model": "factorylights:block/factory_light/factorylightwestedge"},
+    "lit=true,part=5": {"model": "factorylights:block/factory_light/factorylightcenterew"},
+    "lit=true,part=6": {"model": "factorylights:block/factory_light/factorylighteastedge"},
+    "lit=false,part=0": {"model": "factorylights:block/factory_light/empty/factorylight"},
+    "lit=false,part=1": {"model": "factorylights:block/factory_light/empty/factorylightnorthedge"},
+    "lit=false,part=2": {"model": "factorylights:block/factory_light/empty/factorylightcenterns"},
+    "lit=false,part=3": {"model": "factorylights:block/factory_light/empty/factorylightsouthedge"},
+    "lit=false,part=4": {"model": "factorylights:block/factory_light/empty/factorylightwestedge"},
+    "lit=false,part=5": {"model": "factorylights:block/factory_light/empty/factorylightcenterew"},
+    "lit=false,part=6": {"model": "factorylights:block/factory_light/empty/factorylighteastedge"}
+  }
+}

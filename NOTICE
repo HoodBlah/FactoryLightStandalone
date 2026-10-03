@@ -1,0 +1,15 @@
+Factory Lights
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This project is derived from Create: Power Grid
+  https://github.com/patryk3211/PowerGrid (branch architectury-1.21.1/dev)
+  Copyright 2025-2026 patryk3211
+  Licensed under the Apache License, Version 2.0.
+
+Derived material (modified):
+  - Factory light block models, ray ("godrays") models and textures
+    (assets/factorylights/models/block/factory_light, assets/factorylights/textures/block/factory_light).
+    Model files were changed to use the "factorylights" namespace and a vanilla particle texture.
+  - Part-merging and light-projection logic of FactoryLightBlock, FactoryLightBlockEntity,
+    FactoryLightLightBlock and FactoryLightRenderer, rewritten for plain NeoForge
+    with Forge Energy instead of the Power Grid electric simulation, bulbs and Create/Flywheel.
