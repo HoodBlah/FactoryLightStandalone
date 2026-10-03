@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "pattern": [
-    "III",
-    " G ",
-    " C "
+    " I ",
+    "ICI",
+    " G "
   ],
   "key": {
     "I": {"item": "minecraft:iron_ingot"},
